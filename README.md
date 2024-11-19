@@ -8,7 +8,7 @@ Features ✨
 -📱 Fully responsive design for mobile and desktop.
 
 ## Demo 🚀
-[View Live Demo](https://your-live-demo-link.com)
+[View Live Demo](https://hemzaaaaaa.github.io/weather-app/)
 
 Technologies Used 🛠️
 -HTML5: For the structure of the app.
@@ -23,6 +23,4 @@ License 📝
 This project is licensed under the MIT License.
 
 ## Author 🧑‍💻
-Created with ❤️ by [Hamza Lamkhailif](https://github.com/HamzaLamkhailif).
-
-GitHub
+Created with ❤️ by [Hamza Lamkhailif](https://github.com/Hemzaaaaaa).
